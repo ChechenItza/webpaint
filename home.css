@@ -194,7 +194,7 @@ p[class*='banner-row'] {
 */
 
 .services {
-    min-height: 369px;
+    min-height: 329px;
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
@@ -264,7 +264,7 @@ div[class^="service-wrapper"] {
 */
 
 .portfolio {
-    min-height: 1004px;
+    min-height: 964px;
     display: flex;
     flex-flow: column nowrap;
     justify-content: center;
