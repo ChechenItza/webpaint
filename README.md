@@ -1,0 +1,2 @@
+# webpaint
+Static webpage
